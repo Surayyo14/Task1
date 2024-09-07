@@ -3,6 +3,14 @@
 
 // console.log(absValues);
 
-let a = -8;
-let s = Math.abs(a);
-console.log(s);
+let a1 = -8;
+let a2 = -56;
+let a3 = -45;
+
+let result1 = Math.abs(a1);
+let result2 = Math.abs(a2);
+let result3 = Math.abs(a3);
+
+console.log(result1); 
+console.log(result2); 
+console.log(result3);  
